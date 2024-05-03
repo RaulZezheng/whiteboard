@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Initial</class>
+ <widget class="QWidget" name="Initial">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>675</width>
+    <height>542</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QPushButton" name="anocreateButton">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>160</y>
+     <width>211</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>anonymous user create</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="registerButton">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>90</y>
+     <width>211</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>register</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="anojoinButton">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>230</y>
+     <width>211</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>anonymous user join</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="loginButton">
+   <property name="geometry">
+    <rect>
+     <x>190</x>
+     <y>300</y>
+     <width>211</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>login</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
